@@ -1,0 +1,14 @@
+C:\Users\Ricardo Daza\Desktop\SistemasVentas\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.deps.json
+C:\Users\Ricardo Daza\Desktop\SistemasVentas\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.runtimeconfig.json
+C:\Users\Ricardo Daza\Desktop\SistemasVentas\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.dll
+C:\Users\Ricardo Daza\Desktop\SistemasVentas\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.pdb
+C:\Users\Ricardo Daza\Desktop\SistemasVentas\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.AssemblyReference.cache
+C:\Users\Ricardo Daza\Desktop\SistemasVentas\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo Daza\Desktop\SistemasVentas\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.AssemblyInfoInputs.cache
+C:\Users\Ricardo Daza\Desktop\SistemasVentas\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.AssemblyInfo.cs
+C:\Users\Ricardo Daza\Desktop\SistemasVentas\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Daza\Desktop\SistemasVentas\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.dll
+C:\Users\Ricardo Daza\Desktop\SistemasVentas\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\refint\SistemaVenta.IOC.dll
+C:\Users\Ricardo Daza\Desktop\SistemasVentas\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.pdb
+C:\Users\Ricardo Daza\Desktop\SistemasVentas\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.genruntimeconfig.cache
+C:\Users\Ricardo Daza\Desktop\SistemasVentas\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\ref\SistemaVenta.IOC.dll
